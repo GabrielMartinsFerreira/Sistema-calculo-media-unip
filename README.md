@@ -8,5 +8,7 @@
 ##
 >Projeto em andamento!
 
-![Screenshot_1](https://user-images.githubusercontent.com/109771437/187447254-2d7efc00-b417-4dca-bb8c-0c59454931f9.png)
+##
+![Screenshot_1](https://user-images.githubusercontent.com/109771437/187447651-7ea3bc2d-9df5-4f89-8bc4-670f6058119b.png)
+
 
